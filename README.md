@@ -11,6 +11,7 @@ Aula_04 --> https://youtu.be/nSebBVPj7wE
 Aula_05 --> https://youtu.be/zL3OvqUFiOo
 
 Da aula 6 em diante, adaptar o projeto de Estatística que vimos usando o Pandas para o pacote Xlsxwriter
+O código dessa compilação dos vídeos está no arquivo da Aula_05
 
 Aula_06 --> https://youtu.be/49VMSvyQ6gA
 Aula_07 --> https://youtu.be/On8AhNWstrM
